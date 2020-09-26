@@ -1,2 +1,2 @@
-# Car-and-Wall
-Every time the car hits the wall at random speed the cars color changes.
+# p5.play-boilerplate
+Boiler plate for p5.play
